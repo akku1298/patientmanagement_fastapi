@@ -1,7 +1,6 @@
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
-
-const API = "http://localhost:8000";
+import { API } from "./api";
 
 const initialForm = {
   id: "", name: "", city: "", age: "",
