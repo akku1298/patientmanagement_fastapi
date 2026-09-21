@@ -1,0 +1,52 @@
+{
+  "P001": {
+    "name": "Akansha hgsdhj",
+    "city": "hongg",
+    "age": 28,
+    "gender": "female",
+    "height": 1.65,
+    "weight": 90.0,
+    "bmi": 33.06,
+    "validate": "Obese"
+  },
+  "P003": {
+    "name": "Sneha Kulkarni",
+    "city": "Pune",
+    "age": 22,
+    "gender": "female",
+    "height": 1.6,
+    "weight": 45,
+    "bmi": 17.58,
+    "verdict": "Underweight"
+  },
+  "P004": {
+    "name": "Arjun Verma",
+    "city": "Mumbai",
+    "age": 40,
+    "gender": "male",
+    "height": 1.8,
+    "weight": 90.0,
+    "bmi": 27.78,
+    "verdict": "Normal"
+  },
+  "P007": {
+    "name": "Akku",
+    "city": "Mombai",
+    "age": 26,
+    "gender": "female",
+    "height": 1.76,
+    "weight": 53.5,
+    "bmi": 17.27,
+    "validate": "Underweight"
+  },
+  "P009": {
+    "name": "Kiran",
+    "city": "delhi",
+    "age": 55,
+    "gender": "female",
+    "height": 1.78,
+    "weight": 50.0,
+    "bmi": 15.78,
+    "validate": "Underweight"
+  }
+}

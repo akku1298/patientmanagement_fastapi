@@ -1,0 +1,26 @@
+# Python
+myenv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.log
+
+# FastAPI / data (uncomment to ignore local db)
+# patients.json
+
+# Node / React
+frontend/my-app/node_modules/
+frontend/my-app/dist/
+frontend/node_modules/
+node_modules/
+dist/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# npm logs
+npm-debug.log*
